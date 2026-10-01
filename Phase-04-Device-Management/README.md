@@ -1,15 +1,15 @@
-# Phase 04 - Device Management
+# Phase 04 - Security
 
 ## Objectif
 
-Administrer les postes Windows avec Intune.
+Mettre en place l'approche Zero Trust.
 
 ## Réalisations
 
-- Enrollment Intune
-- Configuration Profiles
-- Compliance Policies
+- MFA
+- SSPR
+- Conditional Access
+- Blocage appareils non conformes
 - BitLocker
-- Windows Update Rings
-- Autopilot
-- Applications
+- Windows Hello
+- Windows LAPS
