@@ -8,8 +8,9 @@ Mettre en place l'approche Zero Trust.
 
 - MFA
 - SSPR
+- Windows Hello
+- BitLocker
+- Compliance Policies
 - Conditional Access
 - Blocage appareils non conformes
-- BitLocker
-- Windows Hello
 - Windows LAPS
