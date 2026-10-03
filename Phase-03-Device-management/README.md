@@ -8,8 +8,5 @@ Administrer les postes Windows avec Intune.
 
 - Enrollment Intune
 - Configuration Profiles
-- Compliance Policies
-- BitLocker
-- Windows Update Rings
 - Autopilot
 - Applications
