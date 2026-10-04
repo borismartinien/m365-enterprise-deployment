@@ -16,6 +16,7 @@ Ce projet simule le déploiement et l'administration complète d'un environnemen
 - Teams
 - PowerShell
 - Microsoft Graph
+- Vmware workstation
 
 ## Architecture
 
