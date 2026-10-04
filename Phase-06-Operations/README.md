@@ -7,4 +7,5 @@
 - Déploiement d'applications
 - Rapports de conformité
 - Gestion des mises à jour
+- Windows Update Rings
 - Audit des connexions
