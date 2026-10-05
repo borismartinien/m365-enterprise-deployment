@@ -6,11 +6,11 @@ Mettre en place les identités et groupes.
 
 ## Réalisations
 
-- Création de comptes utilisateurs
-- Création de groupes de sécurité
+- Création de comptes utilisateurs en masse a partir d un fichier csv
 - Attribution des licences
 - Gestion des rôles Entra ID
-- Création de groupes dynamiques
+- Création de groupes de sécurité 
+- Création de groupes dynamiques pour appareil et utilisateur
 
 **** Requêtes dynamiques utilisés :
 - (device.deviceTrustType -eq "AzureAD") pour trier les pc gerés par intune
