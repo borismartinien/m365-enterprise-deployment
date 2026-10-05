@@ -12,7 +12,7 @@ Mettre en place les identités et groupes.
 - Création de groupes de sécurité 
 - Création de groupes dynamiques pour appareil et utilisateur
 
-**** Requêtes dynamiques utilisés :
+## Requêtes dynamiques utilisés :
 - (device.deviceTrustType -eq "AzureAD") pour trier les pc gerés par intune
 - (device.deviceTrustType -eq "Workplace") pour trier les pc externe :BYOD
 - (device.devicePhysicalIDs -any (_ -contains "[ZTDId]")) trie les pc inscrit a autopilot  a partir de leur Harware Id
